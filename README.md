@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Gabriel-H189)](https://github.com/stats-organization/github-stats-extended)
+
+I mainly write GUI applications in Python for people to use. I am currently learning more about PyQt5 so I can use it for a big project later on. My magnum opus is a program called Seagull Scaring V2, which is a program to scare away pesky seagulls from anywhere. It uses known-working seagull sounds (made by me).
+
+Have a nice day!
